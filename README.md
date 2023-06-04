@@ -1,1 +1,1 @@
-# bird_sound
+python main.py
